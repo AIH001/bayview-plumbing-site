@@ -3,7 +3,7 @@ import { Star } from "lucide-react";
 const testimonials = [
   {
     name: "Mike R.",
-    text: "Had a burst pipe at 2 AM. Called Bayview and they were at my door within an hour. Saved my kitchen from serious water damage. Can't recommend them enough!",
+    text: "Had a burst pipe at 2 AM. Called Aiss Plumbing and they were at my door within an hour. Saved my kitchen from serious water damage. Can't recommend them enough!",
   },
   {
     name: "Jasmine L.",
